@@ -1,0 +1,100 @@
+body {font-family: 'Catamaran', sans-serif;
+    background-color: #EAE5E3;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 22;
+  line-height: 2;
+  color: #4C413B;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 18;
+  color: #4C413B;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 16;
+  color: #4C413B;
+}
+
+a {
+  text-decoration: none;
+  color: #4C413B;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #8B786D ;
+}
+
+ul {
+  font-weight: 500;
+  font-size: 18;
+  line-height: 3;
+}
+
+.container {
+  width: 650px;   /* This sets the width */
+  margin: 30px auto; /* This automatically sets left/right margins */
+}
+
+.container2 {
+  width: 1700px;
+  margin: 30px auto;
+}
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 2px 2px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-rounded {
+  border-radius: 10%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.row {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 2px 2px 0px rgba(0, 0, 0, 0.2)
+
+}
+
+#border-profile {
+  border: 4px dotted #4C413B;
+}
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+  }
